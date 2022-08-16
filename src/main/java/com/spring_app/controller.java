@@ -21,7 +21,7 @@ public class controller
 	@GetMapping(path="/branch")
 	public static String branch()
 	{
-		return "Hello from branch_2";
+		return "hello from branch_1";
 	}
 
 
